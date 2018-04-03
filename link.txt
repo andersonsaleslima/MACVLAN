@@ -1,0 +1,9 @@
+# Explicação de MACVLAN
+https://hicu.be/bridge-vs-macvlan
+
+# Exeplicação e configuração de MACVLAN
+**https://sreeninet.wordpress.com/2016/05/29/macvlan-and-ipvlan/
+https://superuser.com/questions/1113812/how-to-configure-macvlan-interface-for-getting-the-ip
+
+# VLAN
+http://www.dobitaobyte.com.br/configurar-vlans-em-linux/
